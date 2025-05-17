@@ -1,4 +1,4 @@
-# 🐼 Reverse Engineering the Object-Oriented Architecture of `pandas`
+ Reverse Engineering the Object-Oriented Architecture of `pandas`
 
 ## 📌 Overview
 The `pandas` library is a fundamental tool in Python's data science ecosystem. While often used procedurally, `pandas` is deeply object-oriented. This report explores how its architecture leverages key **OOP principles**: **Encapsulation**, **Abstraction**, **Inheritance**, and **Polymorphism**, with a focus on the `DataFrame` and `Series` classes.
@@ -71,6 +71,16 @@ Polymorphism enables a common interface to behave differently across various obj
 The following UML diagram illustrates the class hierarchy between `NDFrame`, `Series`, and `DataFrame`.
 
 ![UML Diagram](pandas_uml_diagram.png)
+
+> 📌 Note: Ensure the diagram image (`pandas_uml_diagram.png`) is placed in the same directory as this README.
+
+---
+
+## 📄 PDF Version
+
+For a formatted printable report, see the [PDF version](OOP%20Assignment%20Pandas.pdf).
+
+---
 
 ## 📁 Files in Repository
 
