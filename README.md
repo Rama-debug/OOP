@@ -70,10 +70,10 @@ Polymorphism enables a common interface to behave differently across various obj
 
 The following UML diagram illustrates the class hierarchy between `NDFrame`, `Series`, and `DataFrame`.
 
-![UML Diagram](pandas_oop_analysis.png)
+![UML Diagram](pandas_uml_diagram.png)
 
 ## 📁 Files in Repository
 
 - `README.md` – This markdown report
-- `pandas_oop_analysis.pdf` – Full formatted report
-- `pandas_oop_analysis.png` – UML Class Diagram
+- `OOP Assignment Pandas.pdf` – Full formatted report
+- `pandas_uml_diagram.png` – UML Class Diagram
